@@ -18,6 +18,18 @@ Meu nome é Danilo, curso Desenvolvimento de Sistemas na Etec João Belarmino, f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 </p>
 
+- **C#**: Winforms, Desenvolvimento de aplicações com integração de banco de dados e jogos básicos.  
+- **MySQL**: Criação, manipulação, consultas em bancos de dados relacionais.
+  
+- **PHP**: Uma das linguagens que mais utilizei:
+    - Desenvolvi um projeto de um ***site de produtos*** na escola:
+    - ***Rotas*** e ***sistema de login*** (cookies, sessões e validações).
+    - ***Banco de dados MySQL*** usando `mysqli` para consultas.
+    - Organização modular com `include` e `require`.
+    - Uso de métodos `POST` e `GET` para troca de dados.
+      
+- **HTML & CSS**: Construção de layouts responsivos.  
+- **JavaScript**: (Básico)
 
 ---
 
@@ -27,4 +39,3 @@ Meu nome é Danilo, curso Desenvolvimento de Sistemas na Etec João Belarmino, f
 
 Fique à vontade para explorar e entrar em contato comigo!  
 
-# d4nilo-sousa
