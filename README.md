@@ -1,6 +1,6 @@
 # Olá! Bem-vindo ao meu perfil!
 
-Meu nome é Danilo, curso Desenvolvimento de Sistemas na Etec João Belarmino, fascinado por tecnologia e inovação. Aqui estão alguns projetos em destaque:
+Meu nome é ***Danilo***, curso Desenvolvimento de Sistemas na Etec João Belarmino, fascinado por tecnologia e inovação. Aqui estão alguns projetos em destaque:
 
 - 🖩 [Repositório 1](https://github.com/d4nilo-sousa/Calculadora-Csharp): Uma calculadora feita em C#, com as principais operações funcionais.
 - #️⃣ [Repositório 2](https://github.com/d4nilo-sousa/Jogo-da-Velha-csharp): Um jogo da velha também feito em C#.
