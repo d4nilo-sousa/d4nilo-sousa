@@ -2,8 +2,10 @@
 
 Meu nome é ***Danilo***, curso Desenvolvimento de Sistemas na Etec João Belarmino, fascinado por tecnologia e inovação. Aqui estão alguns projetos em destaque:
 
-- 🖩 [Repositório 1](https://github.com/d4nilo-sousa/Calculadora-Csharp): Uma calculadora feita em C#, com as principais operações funcionais.
+- #️⃣ [Repositório 1](https://github.com/d4nilo-sousa/Calculadora-Csharp): Uma calculadora feita em C#, com as principais operações funcionais.
 - #️⃣ [Repositório 2](https://github.com/d4nilo-sousa/Jogo-da-Velha-csharp): Um jogo da velha também feito em C#.
+- #️⃣ [Repositório 3](https://github.com/d4nilo-sousa/Lista-Tarefas): Lista de tarefas funcional feita com JS.
+- #️⃣ [Repositório 4](https://github.com/d4nilo-sousa/Lista-Tarefas): Sistema de Agendamento de Laboratórios da escola, usando php,laravel e mysql (Em desenvolvimento)
 
 ---
 
