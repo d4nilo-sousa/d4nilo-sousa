@@ -13,7 +13,7 @@ Meu nome é ***Danilo***, curso Desenvolvimento de Sistemas na Etec João Belarm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50">
-  <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="Laravel" width="85" height="50">
+  <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="Laravel" width="80" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
