@@ -6,6 +6,7 @@ Meu nome é ***Danilo***, curso Desenvolvimento de Sistemas na Etec João Belarm
 - #️⃣ [Repositório 2](https://github.com/d4nilo-sousa/Jogo-da-Velha-csharp): Um jogo da velha também feito em C#.
 - #️⃣ [Repositório 3](https://github.com/d4nilo-sousa/Lista-Tarefas): Lista de tarefas funcional feita com JS.
 - #️⃣ [Repositório 4](https://github.com/d4nilo-sousa/Sistema-Agendamento): Sistema de Agendamento de Laboratórios da escola, usando php,laravel e mysql (Em desenvolvimento)
+- #️⃣ [Repositório 5](https://github.com/d4nilo-sousa/TCC_jbeventos): TCC - Desenvolvimento de Sistemas - Gerenciador de Eventos da Etec João Belarmino (Em desenvolvimento)
 
 ---
 
