@@ -21,7 +21,6 @@ Meu nome é ***Danilo***, curso Desenvolvimento de Sistemas na Etec João Belarm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 </p>
 
-- **C#**: Winforms, Desenvolvimento de aplicações com integração de banco de dados e jogos básicos.  
 - **MySQL**: Criação, manipulação, consultas em bancos de dados relacionais.
   
 - **PHP**: Uma das linguagens que mais domino/utilizo, junto ao framework Laravel, que otimiza o desenvolvimento dos projetos
