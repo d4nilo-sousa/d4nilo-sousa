@@ -37,6 +37,7 @@ Minhas principais linguagens e ferramentas de trabalho:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d4nilo-sousa&show_icons=true&theme=dark&rank_icon=github" alt="Estatísticas do GitHub do Danilo" />
+  
   <img src="https://streak-stats.demolab.com?user=d4nilo-sousa&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Streak do GitHub do Danilo" />
 </div>
 
