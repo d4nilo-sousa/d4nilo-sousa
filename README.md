@@ -33,20 +33,6 @@ Minhas principais linguagens e ferramentas de trabalho:
 
 ---
 
-## 📂 Projetos em Destaque
-
-Explore alguns dos meus projetos mais relevantes. Aqueles marcados como **(WIP)** estão em desenvolvimento ativo.
-
-| Repositório | Descrição | Status | Tecnologias |
-| :--- | :--- | :--- | :--- |
-| **[Sistema Agendamento](https://github.com/d4nilo-sousa/Sistema-Agendamento)** | Sistema de agendamento de Laboratórios escolares. | **WIP** | `PHP`, `Laravel`, `MySQL` |
-| **[TCC - JBEventos](https://github.com/d4nilo-sousa/TCC-jbeventos)** | Projeto de Conclusão de Curso: Gerenciador de Eventos da Etec. | **WIP** | `PHP`, `Laravel`, `MySQL` |
-| **[Calculadora Csharp](https://github.com/d4nilo-sousa/Calculadora-Csharp)** | Uma calculadora funcional com as operações matemáticas básicas. | Concluído | `C#` |
-| **[Jogo da Velha Csharp](https://github.com/d4nilo-sousa/Jogo-da-Velha-csharp)** | Implementação do clássico Jogo da Velha. | Concluído | `C#` |
-| **[Lista Tarefas](https://github.com/d4nilo-sousa/Lista-Tarefas)** | Lista de tarefas (To-do List) simples e funcional. | Concluído | `JavaScript`, `HTML`, `CSS` |
-
----
-
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
