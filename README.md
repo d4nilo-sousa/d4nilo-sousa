@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGgyY3A0Z3F2eDJ3eG50eWwzaHNqNHV4Y3UzbGgyNW13eHdjcWp4ZCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/QvG1D1D8x648F1s6T3/giphy.gif" width="300" height="150" alt="Coding GIF" />
+
   
   <h1>👋 Olá! Eu sou o Danilo!</h1>
   <p>Desenvolvedor de Sistemas em formação, apaixonado por criar soluções funcionais e inovadoras.</p>
