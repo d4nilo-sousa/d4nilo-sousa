@@ -45,9 +45,4 @@ Minhas principais linguagens e ferramentas de trabalho:
 ## ✉️ Conecte-se Comigo!
 
 Vamos conversar sobre tecnologia ou novas oportunidades!
-
-<p align="left">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-farias-4a3a39341/)
-  
-  [![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/d4nilo-sousa)
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-farias-4a3a39341/)
