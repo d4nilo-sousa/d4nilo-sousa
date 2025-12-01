@@ -33,16 +33,6 @@ Minhas principais linguagens e ferramentas de trabalho:
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=d4nilo-sousa&show_icons=true&theme=dark&rank_icon=github" alt="Estatísticas do GitHub do Danilo" />
-  
-  <img height="180" src="https://streak-stats.demolab.com?user=d4nilo-sousa&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Streak do GitHub do Danilo" />
-</div>
-
-
----
 
 ## ✉️ Conecte-se Comigo!
 
