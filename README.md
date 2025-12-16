@@ -1,7 +1,7 @@
 
   
   <h1>👋 Olá! Eu sou o Danilo!</h1>
-  <p>Desenvolvedor de Sistemas em formação, apaixonado por criar soluções funcionais e inovadoras.</p>
+  <p>Desenvolvedor Web com formação técnica em Desenvolvimento de Sistemas.</p>
 </div>
 
 ---
