@@ -15,6 +15,14 @@
 
 ---
 
+## 🚀 Projetos em Destaque
+
+- 🎓 **JB Eventos**  
+  Sistema web para gerenciamento de eventos acadêmicos (Laravel, MySQL, Tailwind)  
+  🔗 https://github.com/d4nilo-sousa/TCC-jbeventos
+  
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 Minhas principais linguagens e ferramentas de trabalho:
